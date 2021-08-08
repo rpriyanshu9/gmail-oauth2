@@ -4,7 +4,7 @@
 
 Please use this live endpoint to test this API, as the authorized redirect endpoint used in Oauth 2.0 settings contains this live url only. The application won't run properly on localhost.
 
-**live endpoint :** 
+**live endpoint :** https://rpriy-gmail-oauth2.herokuapp.com
 
 ## Get client credentials using OAuth 2.0
 
